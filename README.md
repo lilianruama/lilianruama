@@ -1,7 +1,7 @@
 ## Bem vindo ao meu perfil👋
 ---
 
-#### 💻 Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia <h4>
+#### 💻 Estudante de Análise e Desenvolvimento de Sistemas <h4>
 #### 🌐 Aprendendo HTML, CSS <h4>
 #### 🚀 Em busca de desafios para crescer como programadora <h4>
 #### 📚 Sempre estudando e compartilhando conhecimento <h4>
